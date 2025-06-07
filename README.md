@@ -1,13 +1,9 @@
-Here’s a clean and professional `README.md` file tailored for your brain tumor detection project — especially since it's part of the larger [multi\_disease\_prediction](https://github.com/deoprakash/multi_disease_prediction) project.
-
----
-
-### ✅ Recommended `README.md` content:
-
 ```markdown
 # Brain Tumor Detection using MobileNetV2 (Flask Web App)
 
 This is a sub-project of the [Multi Disease Prediction](https://github.com/deoprakash/multi_disease_prediction) system. It provides a simple web interface to detect brain tumors using a pre-trained MobileNetV2 deep learning model.
+
+deployment on hugging face: https://huggingface.co/spaces/aryasingh1320/brain-tumor-detector
 
 ## 🧠 Overview
 
